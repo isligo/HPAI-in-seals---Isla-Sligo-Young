@@ -297,3 +297,4 @@ static_map <- ggplot() +
   )
 
 print(static_map)
+
